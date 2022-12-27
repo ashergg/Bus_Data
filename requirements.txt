@@ -1,0 +1,4 @@
+folium==0.14.0
+geopandas==0.9.0
+open-bus-stride-client==0.1.6
+pandas==1.5.2
